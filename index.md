@@ -10,3 +10,8 @@ Wow here's some test text
 
 # Who is this guy
 This guy is Taylor Horne.
+
+# Projects
+Here's some projects that I've done before.
+
+[projects](/projects)
