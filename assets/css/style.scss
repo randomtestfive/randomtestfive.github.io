@@ -6,3 +6,11 @@
 #project_title a {
     color: white;
 }
+
+img {
+  width: 640px;
+}
+
+img + em {
+  display: block; text-align: right;
+}
