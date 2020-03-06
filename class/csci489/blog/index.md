@@ -4,11 +4,11 @@ layout: default
 
 # FRC 254's Unbeatable Year
 
-In 2018, FRC team 254 won every [on-season?] match they played.
+In 2018, FRC team 254 won every onseason match they played.
 
-That's insane
+That's insane.
 
-*Like really*
+*Like really.*
 
 ## Backing up a little...
 
@@ -38,6 +38,7 @@ and since then have won so many awards that
 just keeps going past the text.
 
 ![Blue Banners Gif](/assets/image/csci489/banners.gif)
+*from [thebluealliance](https://www.thebluealliance.com/team/254/history)*
 
 Those are actual banners that you get, they can take up space.
 
@@ -53,6 +54,7 @@ Those are actual banners that you get, they can take up space.
  * ???
 
 ![Histogram of Winrates](/assets/image/csci489/hist.png)
+*data from [thebluealliance](https://thebluealliance.com/apidocs/v3)*
 
 ## Point of Comparison
 
@@ -67,12 +69,14 @@ In each of these charts, five teams have been highlighted.
 ### Score vs. Winrate
 
 ![Score vs Winrate](/assets/image/csci489/score-winrate.png)
+*data from [thebluealliance](https://thebluealliance.com/apidocs/v3)*
 
 Obviously winrate is correlated with how high a team scores on average. [say something about outliers/254]
 
 ### Score Difference vs. Winrate
 
 ![Score Difference vs Winrate](/assets/image/csci489/scorediff-winrate.png)
+*data from [thebluealliance](https://thebluealliance.com/apidocs/v3)*
 
 Another similar metric is the average difference between a teams score and the opposing alliance's score.
 254 had the highest average score difference, beating other alliances by 234.3 points.
@@ -81,6 +85,7 @@ In the 2018 season, 809 teams (22.4%) did not have an average score over 254's a
 ### Score Difference vs. Seed
 
 ![Score Difference vs Seed](/assets/image/csci489/scorediff-seed.png)
+*data from [thebluealliance](https://thebluealliance.com/apidocs/v3)*
 
 During qualification matches, teams get Ranking Points (RP) for winning, getting a tie,
 or for completing specific, more difficult tasks during the match.
@@ -91,6 +96,7 @@ so the lowest rank is a range [figure that out?].
 ### Score vs. Opposing Score
 
 ![Score vs Opposing Score](/assets/image/csci489/score-oppscore.png)
+*data from [thebluealliance](https://thebluealliance.com/apidocs/v3)*
 
 This chart is a bit more muddy due to the nature of the game.
 If both alliances were able to score on their switch but never descored the opposing switch,
@@ -101,7 +107,7 @@ either because they were trying to distract the other alliance,
 or because they already had very solid control of the scale.
 254 was often in the latter situation, leading to their low opposing score.
 
-## Match Timeseries 
+## Match Timeseries
 
 Due to scoring taking place on a second-by-second basis in 2018,
 the thebluealliance dataset also contains a timeseries for many matches.
@@ -124,6 +130,7 @@ the second shows when the match ends.
 ### Time to Own Switch (for the first time)
 
 ![Time to Own Switch](/assets/image/csci489/time-switch.png)
+*data from [thebluealliance](https://thebluealliance.com/apidocs/v3)*
 
 Most teams were either able to score the switch on their own during autonomous,
 or had a alliance partner that was able to.
@@ -135,6 +142,7 @@ Once for 558 and three times for 6372.
 ### Time to Own Scale (for the first time)
 
 ![Time to Own Scale](/assets/image/csci489/time-scale.png)
+*data from [thebluealliance](https://thebluealliance.com/apidocs/v3)*
 
 Over the course of the season, more and more teams were able to score a cube
 onto the scale during autonomous. 254 was one of the few teams to have a counterplay:
@@ -144,6 +152,12 @@ later picking up a third ready for when teleoperated started.
 Once again, not all teams were able to score the scale in a match.
 Out of these teams, it happened nine times.
 Twice for 558, twice for 3933, and five times for 6372.
+
+### [WIP] Switch Ownership Ratio
+
+### [WIP] Scale Ownership Ratio
+
+### [WIP] Opposing Switch Ownership Ratio
 
 ## Citation
 
