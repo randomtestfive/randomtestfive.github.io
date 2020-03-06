@@ -101,7 +101,7 @@ either because they were trying to distract the other alliance,
 or because they already had very solid control of the scale.
 254 was often in the latter situation, leading to their low opposing score.
 
-## Timeseries [prob change that]
+## Match Timeseries 
 
 Due to scoring taking place on a second-by-second basis in 2018,
 the thebluealliance dataset also contains a timeseries for many matches.
@@ -144,3 +144,7 @@ later picking up a third ready for when teleoperated started.
 Once again, not all teams were able to score the scale in a match.
 Out of these teams, it happened nine times.
 Twice for 558, twice for 3933, and five times for 6372.
+
+## Citation
+
+All data sourced from [thebluealliance api v3](https://thebluealliance.com/apidocs/v3)
