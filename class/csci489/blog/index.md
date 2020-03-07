@@ -73,7 +73,7 @@ In each of these charts, five teams have been highlighted.
 ![Score vs Winrate](/assets/image/csci489/score-winrate.png)
 *data from [thebluealliance](https://thebluealliance.com/apidocs/v3)*
 
-Obviously winrate is correlated with how high a team scores on average. [say something about outliers/254]
+Obviously winrate is correlated with how high a team scores on average.
 
 ### Score Difference vs. Winrate
 
