@@ -157,9 +157,18 @@ Twice for 558, twice for 3933, and five times for 6372.
 
 ### [WIP] Switch Ownership Ratio
 
+![Switch Ownership Ratio](/assets/image/csci489/ratio-near.png)
+*data from [thebluealliance](https://thebluealliance.com/apidocs/v3)*
+
 ### [WIP] Scale Ownership Ratio
 
+![Scale Ownership Ratio](/assets/image/csci489/ratio-scale.png)
+*data from [thebluealliance](https://thebluealliance.com/apidocs/v3)*
+
 ### [WIP] Opposing Switch Ownership Ratio
+
+![Opposing Switch Ownership Ratio](/assets/image/csci489/ratio-far.png)
+*data from [thebluealliance](https://thebluealliance.com/apidocs/v3)*
 
 ## Citation
 
