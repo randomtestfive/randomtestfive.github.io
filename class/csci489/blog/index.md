@@ -20,7 +20,9 @@ with the first 15 seconds having the robots controlled autonomously,
 and the remaining 2:15 teleoperated.
 In 2018, the game was called Power Up.
 
+<div class="video-container">
 <iframe width="640" height="360" src="https://www.youtube.com/embed/HZbdwYiCY74?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Power Up featured three seesaws, two "switches" at the on each side of the field and one "scale"
 in the center. Teams could place "Power Cubes" (which I'll just call cubes) on their side of the seesaws,
@@ -49,9 +51,9 @@ Those are actual banners that you get, they can take up space.
 
 254's 2018 went 53-0-0, giving them a winrate of 1, here's everyone else.
 
- * Team 148 had the second highest winrate of 0.927
+ * Team 148 had the second highest winrate of 0.927.
  * 9 teams had a winrate of zero, losing every match they were in.
- * ???
+ * 252 teams had a winrate of exactly 0.5, winning half of their matches.
 
 ![Histogram of Winrates](/assets/image/csci489/hist.png)
 *data from [thebluealliance](https://thebluealliance.com/apidocs/v3)*
