@@ -42,11 +42,6 @@ just keeps going past the text.
 ![Blue Banners Gif](/assets/image/csci489/banners.gif)
 *from [thebluealliance](https://www.thebluealliance.com/team/254/history)*
 
-Those are actual banners that you get, they can take up space.
-
-![Blue Banners](/assets/image/csci489/banners-photo.jpg)
-*image from [here](https://www.reddit.com/r/FRC/comments/8e6uhv/when_you_tour_the_johnson_space_center_and/?ref=share&ref_source=link)*
-
 ## Winrate
 
 254's 2018 went 53-0-0, giving them a winrate of 1, here's everyone else.
