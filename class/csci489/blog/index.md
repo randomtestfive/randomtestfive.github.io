@@ -96,6 +96,8 @@ so the lowest rank is a range [figure that out?].
 *data from [thebluealliance](https://thebluealliance.com/apidocs/v3)*
 
 This chart is a bit more muddy due to the nature of the game.
+The blue line shows where Score&#160;=&#160;Opposing Score,
+teams below had a positive average score difference, teams above had a negative average score difference.
 If both alliances were able to score on their switch but never descored the opposing switch,
 then both alliances could receive a reasonable amount of points.
 Most strategies revolved around claiming ownership of the scale,
@@ -156,7 +158,7 @@ Each of these charts shows a ratio of the time that a team owned a switch or sca
 to the total amount of time that they played.
 For an alliance, the near switch is easiest to capture, the scale next, then the opposing switch.
 
-### [WIP] Switch Ownership Ratio
+### Switch Ownership Ratio
 
 ![Switch Ownership Ratio](/assets/image/csci489/ratio-near.png)
 *data from [thebluealliance](https://thebluealliance.com/apidocs/v3)*
@@ -167,16 +169,18 @@ Based on how early they were able to claim their switch,
 it makes sense that they have ownership of it for so much of their time.
 When teams controlled their switch for a greater portion of their time playing, they performed better.
 
-### [WIP] Scale Ownership Ratio
+### Scale Ownership Ratio
 
 ![Scale Ownership Ratio](/assets/image/csci489/ratio-scale.png)
 *data from [thebluealliance](https://thebluealliance.com/apidocs/v3)*
 
-???
-
+The scale is an interesting case because not all teams could reliably score on it.
+In this subset, this is 558 and 6372,
+although 558's shooter was normally able to score in the scale during autonomous.
+Because both alliances could score from the scale, in less one-sided matches it would tip back and forth between alliances.
 254 gained ownership during auto a lot, many times with two cubes.
 
-### [WIP] Opposing Switch Ownership Ratio
+### Opposing Switch Ownership Ratio
 
 ![Opposing Switch Ownership Ratio](/assets/image/csci489/ratio-far.png)
 *data from [thebluealliance](https://thebluealliance.com/apidocs/v3)*
@@ -188,6 +192,16 @@ making it a good distraction tactic for while trying to claim or defend the scal
 Teams that were better tended to claim the opposing switch.
 254 managed to take ownership of the opposing switch for a third of the time they were in a match,
 in contrast to 6372, where the opposing alliance owned their switch more often than 254 owned theirs.
+
+## Interesting Matches
+
+While going through and double-checking data, I found a handful of matches that are just kind of interesting.
+
+ * [6372 never actually claims their switch or the scale](https://youtu.be/IKreBfrdqWs)
+ * [254's second highest score difference, because their highest was just the other alliance getting penalties](https://youtu.be/kN4gUwIeJPM)
+ * [This match with 3933 had the scale balanced for a total of a minute, ending with a 3 point difference](https://youtu.be/gl9zqoan6tE)
+ * [1741's opponent scores very good (but because of penalties)](https://youtu.be/ICkl5ccKMIg)
+ * [Here is one of the few times that 558 actually uses their shooter](https://youtu.be/P8-ObVr5OOc)
 
 ## Citation
 
