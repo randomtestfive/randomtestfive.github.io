@@ -150,20 +150,44 @@ Once again, not all teams were able to score the scale in a match.
 Out of these teams, it happened nine times.
 Twice for 558, twice for 3933, and five times for 6372.
 
+## Ownership Ratios
+
+Each of these charts shows a ratio of the time that a team owned a switch or scale
+to the total amount of time that they played.
+For an alliance, the near switch is easiest to capture, the scale next, then the opposing switch.
+
 ### [WIP] Switch Ownership Ratio
 
 ![Switch Ownership Ratio](/assets/image/csci489/ratio-near.png)
 *data from [thebluealliance](https://thebluealliance.com/apidocs/v3)*
+
+254 performed the best out of this set of teams,
+having control of their own switch 92% of the time they were on the field.
+Based on how early they were able to claim their switch,
+it makes sense that they have ownership of it for so much of their time.
+When teams controlled their switch for a greater portion of their time playing, they performed better.
 
 ### [WIP] Scale Ownership Ratio
 
 ![Scale Ownership Ratio](/assets/image/csci489/ratio-scale.png)
 *data from [thebluealliance](https://thebluealliance.com/apidocs/v3)*
 
+???
+
+254 gained ownership during auto a lot, many times with two cubes.
+
 ### [WIP] Opposing Switch Ownership Ratio
 
 ![Opposing Switch Ownership Ratio](/assets/image/csci489/ratio-far.png)
 *data from [thebluealliance](https://thebluealliance.com/apidocs/v3)*
+
+The opposing switch was usually a lofty goal for an alliance.
+It doesn't give them points, it only makes it so the other alliance doesn't get points.
+However, claiming the opposing switch was usually easier than the scale,
+making it a good distraction tactic for while trying to claim or defend the scale.
+Teams that were better tended to claim the opposing switch.
+254 managed to take ownership of the opposing switch for a third of the time they were in a match,
+in contrast to 6372, where the opposing alliance owned their switch more often than 254 owned theirs.
 
 ## Citation
 

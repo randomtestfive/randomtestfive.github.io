@@ -15,3 +15,8 @@ This guy is Taylor Horne.
 Here's some projects that I've done before.
 
 [projects](/projects)
+
+# Classes
+Here's some classes I am taking/have taken.
+
+[classes](class)
