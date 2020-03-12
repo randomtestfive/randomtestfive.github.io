@@ -154,9 +154,8 @@ Twice for 558, twice for 3933, and five times for 6372.
 
 ## Ownership Ratios
 
-Each of these charts shows a ratio of the time that a team owned a switch or scale
-to the total amount of time that they played.
-For an alliance, the near switch is easiest to capture, the scale next, then the opposing switch.
+Each of these charts shows a histogram of the ratios of the time that a team owned a switch or scale during a match
+to the total amount of time in the match.
 
 ### Switch Ownership Ratio
 
@@ -178,13 +177,19 @@ The scale is an interesting case because not all teams could reliably score on i
 In this subset, this is 558 and 6372,
 although 558's shooter was normally able to score in the scale during autonomous.
 Because both alliances could score from the scale, in less one-sided matches it would tip back and forth between alliances.
-254 gained ownership during auto a lot, many times with two cubes.
+254 gained ownership during auto a lot, many times with two or more cubes further in the season.
+Here's their last match where they score four cubes during the 15 second autonomous:
+
+![Four Cube Auto](/assets/image/csci489/4-cube.gif)
+*from [here](https://youtu.be/pfhBCb6bXpE)*
 
 ### Opposing Switch Ownership Ratio
 
 ![Opposing Switch Ownership Ratio](/assets/image/csci489/ratio-far.png)
 *data from [thebluealliance](https://thebluealliance.com/apidocs/v3)*
 
+This chart is slightly different because it shows the ratios of the opposing alliance,
+the opposing alliance not owning their scale is better for an alliance.
 The opposing switch was usually a lofty goal for an alliance.
 It doesn't give them points, it only makes it so the other alliance doesn't get points.
 However, claiming the opposing switch was usually easier than the scale,
