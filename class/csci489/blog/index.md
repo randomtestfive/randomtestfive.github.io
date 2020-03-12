@@ -208,6 +208,11 @@ While going through and double-checking data, I found a handful of matches that 
  * [1741's opponent scores very good (but because of penalties)](https://youtu.be/ICkl5ccKMIg)
  * [Here is one of the few times that 558 actually uses their shooter](https://youtu.be/P8-ObVr5OOc)
 
+## Code
+
+ * For scraping the thebluealliance api, I used nodejs, [link](https://github.com/randomtestfive/blueAllianceScraper)
+ * For processing the resulting data into charts, I used R with ggplot2, link 
+
 ## Citation
 
 All data sourced from [thebluealliance api v3](https://thebluealliance.com/apidocs/v3)
