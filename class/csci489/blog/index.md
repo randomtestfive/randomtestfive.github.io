@@ -211,7 +211,7 @@ While going through and double-checking data, I found a handful of matches that 
 ## Code
 
  * For scraping the thebluealliance api, I used nodejs, [link](https://github.com/randomtestfive/blueAllianceScraper)
- * For processing the resulting data into charts, I used R with ggplot2, link 
+ * For processing the resulting data into charts, I used R with ggplot2, [link](https://gist.github.com/randomtestfive/b4279795ea07dde6c692c27ffbf38086) 
 
 ## Citation
 
